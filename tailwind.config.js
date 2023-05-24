@@ -2,7 +2,13 @@
 module.exports = {
   content: ["./*.html"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        elgengrau: "#161719",
+        azure: "#ecfeff",
+        gainsboro: "#d6d9df",
+      },
+    },
   },
   plugins: [],
 };
