@@ -578,6 +578,10 @@ video {
   width: 24rem;
 }
 
+.w-72 {
+  width: 18rem;
+}
+
 .min-w-full {
   min-width: 100%;
 }
@@ -754,6 +758,10 @@ video {
 
   .md\:w-auto {
     width: auto;
+  }
+
+  .md\:w-96 {
+    width: 24rem;
   }
 
   .md\:flex-row {
